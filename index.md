@@ -7,4 +7,4 @@
 
 Попробуй кликнуть по перетащенному блоку и посмотреть, что получится.
 
-<a href="/scratchtutorial/2.html" class="btn">Следующий</a>
+<a href="/scratchtutorial/2.html" class="btn" style="background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957);">Следующий</a>
