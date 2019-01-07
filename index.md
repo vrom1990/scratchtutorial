@@ -7,4 +7,4 @@ You can use the [editor on GitHub](https://github.com/vrom1990/scratchtutorial/e
 
 Попробуй кликнуть по перетащенному блоку и посмотреть, что получится.
 
-<a href="/2.html" class="btn">View on GitHub</a>
+<a href="/2.html" class="btn">Следующий</a>
